@@ -16,7 +16,7 @@ export const Timeline: FC = () => {
         <Type>TIMELINE</Type>
       </TimelineBlock>
       {timelineData.map((item) => (
-        <TimelineBlock key={item.id}>
+        <TimelineBlock href="https://vk.com/evstifeevee" key={item.id}>
           <YearCompanyContainer>
             <Year>{item.year}</Year>
             <Company>{item.company}</Company>

@@ -22,14 +22,14 @@ export const Main: FC = () => {
           Im <WhiteStrongText>Egor Evstifeev</WhiteStrongText> 23 y/o.{" "}
           <WhiteStrongText>UI UX</WhiteStrongText> designer. I have accumulated{" "}
           <WhiteStrongText>7 years</WhiteStrongText> expirience of making{" "}
-          <WhiteStrongText>different design</WhiteStrongText>, in agency and as freelance
-          Сurrently working on <WhiteStrongText>Figma</WhiteStrongText>. Graduated from
-          the university in the direction of graphic design. I also make a logo
-          and 3D design.
+          <WhiteStrongText>different design</WhiteStrongText>, in agency and as
+          freelance Сurrently working on{" "}
+          <WhiteStrongText>Figma</WhiteStrongText>. Graduated from the
+          university in the direction of graphic design. I also make a logo and
+          3D design.
         </MainText>
         <BottomText>
-          Based in <WhiteStrongText>SPB</WhiteStrongText>
-          (Russia)
+          Based in <WhiteStrongText>SPB</WhiteStrongText> (Russia)
         </BottomText>
       </TextContainer>
     </ComponentWrapper>
