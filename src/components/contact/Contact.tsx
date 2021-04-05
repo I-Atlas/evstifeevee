@@ -34,7 +34,7 @@ export const Contact: FC = () => {
         </ContactContainer>
         <PortfolioContainer>
           <WhiteLightText>My portfolio you can see on</WhiteLightText>
-          <YellowLightLink>behance</YellowLightLink>
+          <YellowLightLink href="https://www.behance.net/">behance</YellowLightLink>
         </PortfolioContainer>
       </MainContainer>
     </ComponentWrapper>

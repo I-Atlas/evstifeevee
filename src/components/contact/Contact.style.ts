@@ -13,7 +13,6 @@ export const MainContainer = styled.div`
   width: 100%;
   display: flex;
   flex-direction: column;
-  margin-bottom: 24px;
   justify-content: space-between;
   padding: 0 12px 0 12px;
   ${media.forPhoneLarge} {
@@ -36,9 +35,18 @@ export const ContactContainer = styled.div`
   max-width: 320px;
   display: flex;
   flex-direction: column;
+  margin-bottom: 24px;
 `;
 
 export const PortfolioContainer = styled.div`
   max-width: 320px;
-  align-self: center;
+  ${media.forPhoneLarge} {
+    margin-top: 69px;
+  }
+  ${media.forTablet} {
+    margin-top: 77px;
+  }
+  ${media.forTabletLarge} {
+    margin-top: 90px;
+  }
 `;
