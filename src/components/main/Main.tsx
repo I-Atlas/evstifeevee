@@ -23,7 +23,7 @@ export const Main: FC = () => {
           <WhiteStrongText>UI UX</WhiteStrongText> designer. I have accumulated{" "}
           <WhiteStrongText>7 years</WhiteStrongText> expirience of making{" "}
           <WhiteStrongText>different design</WhiteStrongText>, in agency and as
-          freelance Сurrently working on{" "}
+          freelance. Сurrently working on{" "}
           <WhiteStrongText>Figma</WhiteStrongText>. Graduated from the
           university in the direction of graphic design. I also make a logo and
           3D design.
